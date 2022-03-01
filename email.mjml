@@ -1,0 +1,28 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding="10px 25px" src="https://media3.giphy.com/media/3OhXBaoR1tVPW/giphy.gif" width="600px"></mj-image>
+        <mj-text  
+              font-style="italic"
+              font-size="30px"
+              color="#000"
+              align="center">
+      Caro collega,
+    </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="14px" line-height="28px" padding="0px 25px 0px 25px">Mi hai inviato un evento a calendario senza controllare se avevo già appuntamenti. Il mio calendario è aperto a tutti e sono segnati anche impegni non lavorativi in modo che tu possa sapere quando ho lo spazio per parlare con te dedicandoti il tempo e soprattutto l'attenzione necessaria.</mj-text>
+        <mj-text  
+              font-style="italic"
+              font-size="20px"
+              color="#000"
+              align="center">
+      Grazie!
+    </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
