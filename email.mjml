@@ -24,5 +24,15 @@
     </mj-text>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="14px" font-style="italic" line-height="28px" padding="0px 25px 0px 25px">Se anche tu vuoi questa funzionalità, guarda qui: <mj-link href="https://github.com/marcosanson/gCalendarDecliner">https://github.com/marcosanson/gCalendarDecliner</mj-link></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="14px" font-style="italic" line-height="28px" padding="0px 25px 0px 25px">Nessun cliente (o gatto) è stato maltrattato da questo rifiuto</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
