@@ -33,9 +33,13 @@ il tuo progetto dovrebbe assomigliare a questo:
 Modificare le seguenti variabili all'interno del file Code.gs con i valori desiderati:
 
 ```
-MY_CALENDAR_ID = 'marco.sanson@develon.com';
-MY_EMAIL = 'marco.sanson@develon.com';
-ACTIVE_DOMAINS = [ 'develon.com', 'develondigital.com', 'pharmaround.it', 'hbenchmark.com', 'apps.develon.com', 'dticketing.com' ];
+MY_CALENDAR_ID = "your_calendar_id";
+MY_EMAIL = "your_email_address";
+ACTIVE_DOMAINS = [
+  "dominio1.com",
+  "dominio2.com",
+  "dominio3.com",
+];
 DAYS_TO_LOOK_AHEAD = 30;
 ```
 
